@@ -1,4 +1,5 @@
 # MyGithub
+[![Awesome Kotlin Badge](https://kotlin.link/awesome-kotlin.svg)](https://github.com/KotlinBy/awesome-kotlin)
 ##如何添加项目到github<br>
 ###我就问你6不6<br>
 ![image](https://github.com/ainiyiwan/MyGithub/raw/master/images/areyouok.jpg "我的图片")<br>
